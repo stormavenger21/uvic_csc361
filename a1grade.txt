@@ -1,0 +1,4 @@
+Error handling for invalid URI: -4
+Redirection issue on google.ca -5
+No list of cookies on google.ca -5
+Score: 86 / 100 - 86 %
