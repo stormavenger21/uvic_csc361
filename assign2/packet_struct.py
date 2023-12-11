@@ -1,6 +1,6 @@
 import struct
 
-
+#ip header
 BIG_ENDIAN=0xD4C3B2A1
 LITTLE_ENDIAN=0xA1B2C3D4
 
